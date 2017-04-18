@@ -1,0 +1,48 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24-Jun-2016, 16:53:40
+    Author     : Engr.Uzma
+*/
+.tracker-code{
+    //border: 1px solid black;
+    height: 162px;
+    padding-left: 137px;
+}
+body {
+	
+	background: url('back.jpg') fixed;
+      //  background: url('http://mosthdwallpapers.com/wp-content/uploads/2015/06/Mazar-e-Quaid-At-Night-Wallpaper.jpg') fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#main:first-letter{
+     font-family: monospace;
+     color: #122b40;
+    font-size: 4em;
+   
+}
+.main-text-other{
+    font-size: 2em;
+    font-family: cursive;
+}
+.para{
+    font-style: oblique;
+    font-size: 1.9em;
+    color: #999999;
+}
+abbr{
+    
+   // border: none;
+     border-bottom: none !important;
+  cursor: inherit !important;
+  text-decoration: none !important;
+}
+.upload-button{
+    margin:20px;
+}

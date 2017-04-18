@@ -1,0 +1,15 @@
+.letter:first-letter{
+                        font-size: 3em;
+                        position: absolute;
+                        
+                    }
+                    .textother{
+                        font-family: cursive;
+                        
+                    }
+                    li#pos{
+                        position: absolute;
+                       top: -1em;
+                        left: 10em;
+                    }
+
